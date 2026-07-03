@@ -1,0 +1,320 @@
+{
+  "knowledge_base": {
+    "source": "https://lict.edu.np/",
+    "fetched_on": "2026-06-30",
+    "institute": {
+      "name": "Lumbini ICT Campus",
+      "short_name": "LICTC",
+      "address": "Gaindakot-4, Kaligandaki Chowk, Nawalpur, Nepal",
+      "phone": [
+        "078-502188",
+        "078-503206"
+      ],
+      "email": "mailto@lict.edu.np",
+      "facebook": "https://www.facebook.com/Lumbini.ICT",
+      "website": "https://lict.edu.np/",
+      "logo": "https://lict.edu.np/wp-content/uploads/2021/01/final.png"
+    },
+    "about": "Lumbini ICT Campus is one of the leading and renowned institutions known for its dedication to quality education. It is designed to disseminate quality education within a quality framework, helping students make the most of themselves academically and socially. The campus has well-managed administrative staff with highly qualified, experienced teachers, guided by a dedicated management committee in conformity with national educational goals.",
+    "vision": "Lumbini ICT Campus envisions that every student has his/her own potential and ensures that he/she is provided with every opportunity to make maximum use of it. The campus intends to develop a center of excellence for technical education and research.",
+    "mission": "To develop Lumbini ICT Campus as a distinct college by implementing a high-tech education system in order to produce skilled human resources required for a technologically advanced world.",
+    "commitment": "To offer an environment to produce skilled human resources capable of competing locally and globally.",
+    "courses_offered": [
+      {
+        "code": "BSc. CSIT",
+        "full_name": "Bachelor in Science, Computer Science and Information Technology",
+        "url": "https://lict.edu.np/bsc-csit/"
+      },
+      {
+        "code": "BIM",
+        "full_name": "Bachelor of Information Management",
+        "url": "https://lict.edu.np/bim/"
+      },
+      {
+        "code": "BCA",
+        "full_name": "Bachelor of Computer Application",
+        "url": "https://lict.edu.np/bca/"
+      },
+      {
+        "code": "BHM",
+        "full_name": "Bachelor of Hotel Management",
+        "url": "https://lict.edu.np/bhm/"
+      }
+    ],
+    "leadership": {
+      "chairman": {
+        "name": "Mr. Kailash Koirala",
+        "title": "Chairman",
+        "message": "Lumbini ICT Campus paves international quality education at an affordable cost. Proper development of both head and heart leads an individual towards sustainable fast growth in career and life."
+      },
+      "principal": {
+        "name": "Mr. Pratap Koirala",
+        "title": "Principal / Campus Chief",
+        "message": "We have a lot of things to be proud of which includes quality education, well equipped laboratories, modern physical infrastructure, exposure of students in different intra/inter campus competitions, and a healthy studying environment."
+      }
+    },
+    "navigation": {
+      "courses": [
+        "BSc. CSIT",
+        "BCA",
+        "BIM",
+        "BHM"
+      ],
+      "team": [
+        "BOD",
+        "Teaching Faculty",
+        "Visiting Faculty",
+        "Non Teaching Faculty"
+      ],
+      "syllabus": [
+        "BCA Course",
+        "BIM Course"
+      ],
+      "other_pages": [
+        "Gallery",
+        "Info Notice",
+        "Events (NDTSS)",
+        "QAA"
+      ]
+    },
+    "recent_posts": [
+      "Admitted Student List (CSIT 2079)",
+      "Admission for B.Sc. CSIT (2078 intake)",
+      "BSc. CSIT Mock Test Result",
+      "CMAT Mock Test Result",
+      "BCA Entrance Exam Form"
+    ]
+  },
+  "faq": [
+    {
+      "question": "What is Lumbini ICT Campus?",
+      "answer": "Lumbini ICT Campus is a reputed institution located in Gaindakot-4, Kaligandaki Chowk, Nepal, offering bachelor-level programs in CSIT, BIM, BCA, and BHM."
+    },
+    {
+      "question": "What courses does Lumbini ICT Campus offer?",
+      "answer": "Lumbini ICT Campus offers BSc. CSIT, BIM, BCA, and BHM bachelor-level programs."
+    },
+    {
+      "question": "How can I contact Lumbini ICT Campus?",
+      "answer": "You can call 078-502188 / 078-503206, email mailto@lict.edu.np, or visit the campus at Gaindakot-4, Kaligandaki Chowk."
+    },
+    {
+      "question": "Who is the principal of Lumbini ICT Campus?",
+      "answer": "Mr. Pratap Koirala is the Principal / Campus Chief of Lumbini ICT Campus."
+    },
+    {
+      "question": "Who is the chairman of Lumbini ICT Campus?",
+      "answer": "Mr. Kailash Koirala is the Chairman of Lumbini ICT Campus."
+    }
+  ],
+  "greetings": {
+    "hi": [
+      "Hello there! 👋 How can I help you today?",
+      "Hi! Great to see you. What's on your mind?",
+      "Hey! I'm here and ready to chat 😊"
+    ],
+    "hii": [
+      "Hello! 👋 How are you doing today?",
+      "Hii there! What can I do for you?"
+    ],
+    "hello": [
+      "Hello! Welcome back 🙌 How can I assist you?",
+      "Hi there! What would you like to talk about?"
+    ],
+    "hey": [
+      "Hey! 👋 What's up?",
+      "Hey there! How can I help?"
+    ],
+    "good morning": [
+      "Good morning! ☀️ Hope you have a great day ahead.",
+      "Morning! Ready to get started?"
+    ],
+    "good afternoon": [
+      "Good afternoon! 🌤️ How's your day going?"
+    ],
+    "good evening": [
+      "Good evening! 🌙 How can I help you tonight?"
+    ],
+    "namaste": [
+      "Namaste! 🙏 How may I assist you today?"
+    ],
+    "bye": [
+      "Goodbye! 👋 Have a wonderful day!",
+      "See you soon! Take care 😊"
+    ],
+    "thanks": [
+      "You're welcome! 😊 Anything else I can help with?",
+      "Glad I could help! Let me know if you need more."
+    ]
+  },
+  "interaction_log": [
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "What's trending in tech today?",
+      "timestamp": "2026-07-02T11:22:21.158997"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "⚠️ Error talking to Groq: Groq API error 400: {\"error\":{\"message\":\"Organization has been restricted. Please reach out to support if you believe this was in error.\",\"type\":\"invalid_request_error\",\"code\":\"organization_restricted\"}}\n",
+      "timestamp": "2026-07-02T11:22:27.475440"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2026-07-03T11:32:42.994966"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "Hello! Welcome back 🙌 How can I assist you?",
+      "timestamp": "2026-07-03T11:32:43.530192"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "kill me",
+      "timestamp": "2026-07-03T11:32:48.157952"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "⚠️ Error talking to Groq: Groq API error 400: {\"error\":{\"message\":\"Organization has been restricted. Please reach out to support if you believe this was in error.\",\"type\":\"invalid_request_error\",\"code\":\"organization_restricted\"}}\n",
+      "timestamp": "2026-07-03T11:32:49.323966"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "ehere is lumbini ict",
+      "timestamp": "2026-07-03T11:33:07.889598"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "⚠️ Error talking to Groq: Groq API error 400: {\"error\":{\"message\":\"Organization has been restricted. Please reach out to support if you believe this was in error.\",\"type\":\"invalid_request_error\",\"code\":\"organization_restricted\"}}\n",
+      "timestamp": "2026-07-03T11:33:09.146435"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "helo",
+      "timestamp": "2026-07-03T11:35:44.261876"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "Hello! Welcome back 🙌 How can I assist you?",
+      "timestamp": "2026-07-03T11:35:44.758086"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "who is pratap",
+      "timestamp": "2026-07-03T11:35:51.224975"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "⚠️ Error talking to Groq: Groq API error 400: {\"error\":{\"message\":\"Organization has been restricted. Please reach out to support if you believe this was in error.\",\"type\":\"invalid_request_error\",\"code\":\"organization_restricted\"}}\n",
+      "timestamp": "2026-07-03T11:35:52.558144"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "lict",
+      "timestamp": "2026-07-03T11:36:07.112048"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "⚠️ Error talking to Groq: Groq API error 400: {\"error\":{\"message\":\"Organization has been restricted. Please reach out to support if you believe this was in error.\",\"type\":\"invalid_request_error\",\"code\":\"organization_restricted\"}}\n",
+      "timestamp": "2026-07-03T11:36:08.352787"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "who am i",
+      "timestamp": "2026-07-03T11:36:14.589860"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "⚠️ Error talking to Groq: Groq API error 400: {\"error\":{\"message\":\"Organization has been restricted. Please reach out to support if you believe this was in error.\",\"type\":\"invalid_request_error\",\"code\":\"organization_restricted\"}}\n",
+      "timestamp": "2026-07-03T11:36:15.891989"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "where is lict ",
+      "timestamp": "2026-07-03T11:38:00.287861"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "**Location of Lumbini ICT Campus:**\nLumbini ICT Campus is located at Gaindakot-4, Kaligandaki Chowk, Nawalpur, Nepal. You can contact them at phone numbers 078-502188, 078-503206, or visit their website at https://lict.edu.np/ for more information.",
+      "timestamp": "2026-07-03T11:38:01.888395"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "hii",
+      "timestamp": "2026-07-03T11:38:10.766697"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "Hii there! What can I do for you?",
+      "timestamp": "2026-07-03T11:38:11.148324"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "pratap is who",
+      "timestamp": "2026-07-03T11:38:32.043802"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "I don't have enough information to determine who Pratap is. Could you please provide more context or details about Pratap? Is he a student, faculty member, or someone related to Lumbini ICT Campus?",
+      "timestamp": "2026-07-03T11:38:33.498971"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "principle if lict",
+      "timestamp": "2026-07-03T11:38:47.678878"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "**Principal of Lumbini ICT Campus:**\nUnfortunately, I don't have the most up-to-date information on the current principal of Lumbini ICT Campus. However, I can suggest visiting the official website of LICT (https://lict.edu.np/) or contacting the campus directly at 078-502188 or 078-503206 to get the latest information on the principal and other faculty members.",
+      "timestamp": "2026-07-03T11:38:49.231200"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "principal if lict",
+      "timestamp": "2026-07-03T11:38:57.007342"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "**Principal of Lumbini ICT Campus:**\nMr. Pratap Koirala is the Principal / Campus Chief of Lumbini ICT Campus.",
+      "timestamp": "2026-07-03T11:38:58.358232"
+    },
+    {
+      "user": "guest",
+      "role": "user",
+      "content": "pratap is who",
+      "timestamp": "2026-07-03T11:39:07.596744"
+    },
+    {
+      "user": "guest",
+      "role": "assistant",
+      "content": "**Pratap Koirala:**\nPratap Koirala is the Principal/Campus Chief of Lumbini ICT Campus, located at Gaindakot-4, Nawalpur, Nepal. He is the head administrator of the campus and is responsible for overseeing the overall operations and academic programs.",
+      "timestamp": "2026-07-03T11:39:09.580727"
+    }
+  ]
+}
